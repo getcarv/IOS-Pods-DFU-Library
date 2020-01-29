@@ -219,7 +219,7 @@ import CoreBluetooth
      
      Buttonless DFU Service UUID: 8E400001-F315-4F60-9FB8-838830DAEA50
      
-     Buttonless DFU characteristic UUID: 8E400001-F315-4F60-9FB8-838830DAEA50 (the same)
+     Buttonless DFU characteristic UUID: 8E400002-F315-4F60-9FB8-838830DAEA50 (the same)
      
      Enter Bootloader Op Code: 0x01
      

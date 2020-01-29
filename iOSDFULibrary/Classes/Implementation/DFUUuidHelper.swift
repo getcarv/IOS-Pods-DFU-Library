@@ -131,7 +131,7 @@ import CoreBluetooth
         // Buttonless DFU
         buttonlessExperimentalService        = CBUUID(string: "8E400001-F315-4F60-9FB8-838830DAEA50")
         // The same UUID as the service
-        buttonlessExperimentalCharacteristic = CBUUID(string: "8E400001-F315-4F60-9FB8-838830DAEA50")
+        buttonlessExperimentalCharacteristic = CBUUID(string: "8E400002-F315-4F60-9FB8-838830DAEA50")
 
         buttonlessWithoutBonds = CBUUID(string: "8EC90003-F315-4F60-9FB8-838830DAEA50")
         buttonlessWithBonds    = CBUUID(string: "8EC90004-F315-4F60-9FB8-838830DAEA50")
