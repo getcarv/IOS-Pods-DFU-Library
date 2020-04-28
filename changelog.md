@@ -1,4 +1,12 @@
 ### Changelog
+- **4.7.1**
+   - Bug fixed: A log message was added to help solve #365 issue.
+   - Bug fixed: DFU will not proceed when setting alternative advertising name caused disconnection (#367).
+   - Bug fixed: Tests for nRF52840 fixed. 
+
+- **4.7.0**
+   - Improvement: Migration to Swift 5.2.
+   
 - **4.6.1**
    - Bugfix: DFU stability improved for DFU from SDK 15 and newer.
    - Improvement: DFU tests for SDK 15.3 and 16 added.
